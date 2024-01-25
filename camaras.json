@@ -1,0 +1,34 @@
+{
+    "camaras": [
+        {
+            "id":1,
+            "marca":"imou",
+            "dimensiones":"",
+            "vision nocturna":"",
+            "camara inteligente":"",
+            "descripcion":"",
+            "diseño":"",
+            "resolucion":"",
+            "conectividad":"",
+            "tipo de camara":"",
+            "modelo":"IPC-TA42P-D",
+            "imagenes":[
+            ]
+        },
+        {
+            "id":2,
+            "marca":"imou",
+            "dimensiones":"",
+            "vision nocturna":"",
+            "camara inteligente":"",
+            "descripcion":"",
+            "diseño":"",
+            "resolucion":"",
+            "conectividad":"",
+            "tipo de camara":"",
+            "modelo":"IPC-TA22CP-D-0360B",
+            "imagenes":[
+                ]
+        }
+    ]
+}

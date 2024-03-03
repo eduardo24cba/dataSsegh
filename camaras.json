@@ -10,7 +10,7 @@
             "diseño":"Interior",
             "resolucion":"4 mp",
             "conectividad":"Wifi",
-            "tipo de camara":"Domo",
+            "tipo_de_camara":"Domo",
             "modelo":"IPC-TA42P-D",
             "imagenes":[
                 "https://raw.githubusercontent.com/eduardo24cba/dataSsegh/main/imagenes/IPC-TA42P-D.jpeg"
@@ -26,7 +26,7 @@
             "diseño":"Interior",
             "resolucion":"2 mp",
             "conectividad":"Wifi",
-            "tipo de camara":"Bullet",
+            "tipo_de_camara":"Bullet",
             "modelo":"IPC-TA22CP-D-0360B",
             "imagenes":[
                 "https://raw.githubusercontent.com/eduardo24cba/dataSsegh/main/imagenes/IPC-TA22CP-D-0360B.jpeg"
@@ -42,7 +42,7 @@
             "diseño":"Exterior",
             "resolucion":"4 mp",
             "conectividad":"Wifi",
-            "tipo de camara":"Domo",
+            "tipo_de_camara":"Domo",
             "modelo":"IPC-S41FP",
             "imagenes":[
                 "https://raw.githubusercontent.com/eduardo24cba/dataSsegh/main/imagenes/IPC-S41FP.jpeg"
@@ -58,7 +58,7 @@
             "diseño":"Exterior",
             "resolucion":"2 mp",
             "conectividad":"Wifi",
-            "tipo de camara":"Domo",
+            "tipo_de_camara":"Domo",
             "modelo":"IPC-S22FP-0360B",
             "imagenes":[
                 "https://raw.githubusercontent.com/eduardo24cba/dataSsegh/main/imagenes/IPC-S22FP-0360B.jpeg"
@@ -74,7 +74,7 @@
             "diseño":"Exterior",
             "resolucion":"4 mp",
             "conectividad":"Wifi",
-            "tipo de camara":"Bullet",
+            "tipo_de_camara":"Bullet",
             "modelo":"IPC-F42FP-D-0280B",
             "imagenes":[
                 "https://raw.githubusercontent.com/eduardo24cba/dataSsegh/main/imagenes/IPC-F42FP-D-0280B.jpeg"
@@ -90,7 +90,7 @@
             "diseño":"Exterior",
             "resolucion":"2 mp",
             "conectividad":"Wifi",
-            "tipo de camara":"Bullet",
+            "tipo_de_camara":"Bullet",
             "modelo":"IPC-F22P-D-0280B",
             "imagenes":[
                 "https://raw.githubusercontent.com/eduardo24cba/dataSsegh/main/imagenes/IPC-F22P-D-0280B.jpeg"
@@ -106,7 +106,7 @@
             "diseño":"Exterior",
             "resolucion":"2 mp",
             "conectividad":"Wifi",
-            "tipo de camara":"Bullet",
+            "tipo_de_camara":"Bullet",
             "modelo":"IPC-F22FEP",
             "imagenes":[
                 "https://raw.githubusercontent.com/eduardo24cba/dataSsegh/main/imagenes/IPC-F22FEP.jpeg"
@@ -122,7 +122,7 @@
             "diseño":"Exterior",
             "resolucion":"5 mp",
             "conectividad":"Wifi",
-            "tipo de camara":"Domo",
+            "tipo_de_camara":"Domo",
             "modelo":"IPC-CRUISER2",
             "imagenes":[
                 "https://raw.githubusercontent.com/eduardo24cba/dataSsegh/main/imagenes/IPC-CRUISER2.jpeg"
@@ -138,7 +138,7 @@
             "diseño":"Exterior",
             "resolucion":"2 mp",
             "conectividad":"Wifi",
-            "tipo de camara":"Domo",
+            "tipo_de_camara":"Domo",
             "modelo":"Cruiser-SE-2MP",
             "imagenes":[
                 "https://raw.githubusercontent.com/eduardo24cba/dataSsegh/main/imagenes/Cruiser_SE_2MP.jpeg"
